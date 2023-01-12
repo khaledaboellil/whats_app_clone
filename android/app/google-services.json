@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933947368330",
+    "project_id": "whats-app-khaled",
+    "storage_bucket": "whats-app-khaled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933947368330:android:e90867a70b914ddf655e73",
+        "android_client_info": {
+          "package_name": "com.example.whats_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933947368330-06p2n6tb42ltm2vhukvrcru7brvvhk5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciSiadHYfKiAIkOsarjJTsV6JQs2qdGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933947368330-06p2n6tb42ltm2vhukvrcru7brvvhk5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933947368330-ukbjgp5l94l71n1ckif93bkf45d76lpc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
