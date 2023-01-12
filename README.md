@@ -1,16 +1,13 @@
-# whats_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# whats_app_Clone
+ 
+whatsApp clone using Flutter , Bloc , FireBaseFirestore , Firebase authantication,Firebase messaging
+it supports 
+-Choose Language (Arabic or English can add other language easily)
+-notification for new messages
+-phone authentication through firebase
+-Invite contact throught sms to use the app
+- 1 to 1 chatting 
+-can transfer text-image-audio-GIF-Emoji
+-online / offline user 
+-seen for messages 
+ now working on status and calls
